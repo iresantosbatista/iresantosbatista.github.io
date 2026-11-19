@@ -1,5 +1,2 @@
-name = "iresantosbatista.github.io"
-compatibility_date = "2026-11-18"
-
-[assets]
-directory = "./"
+# wrangler.toml
+name = 'iresantosbatista-github-io'
